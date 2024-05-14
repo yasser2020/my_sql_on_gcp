@@ -1,0 +1,5 @@
+provider.tf
+keys.json
+terraform.tfstate.backup
+terraform.tfstate
+.terraform
